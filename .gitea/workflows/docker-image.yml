@@ -6,7 +6,7 @@ on:
       - master
 env:
   REGISTRY: git.apisb.me
-  IMAGE_NAME: RandomFilteredImmichImageServer
+  IMAGE_NAME: Thaen/RandomFilteredImmichImageServer
 
 jobs:
   build:
