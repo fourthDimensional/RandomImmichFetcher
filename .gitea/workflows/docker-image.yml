@@ -6,7 +6,6 @@ on:
       - master
 env:
   REGISTRY: git.apisb.me
-  IMAGE_NAME: ${{ github.repository }}
 
 jobs:
   build:
