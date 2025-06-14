@@ -571,7 +571,7 @@ def cache_status():
 	Flask endpoint to check cache status and statistics.
 
 	Provides information about the current state of the API cache,
-	including number of entries and expiry configuration.
+	including the number of entries and expiry configuration.
 
 	Returns:
 		JSON response with cache statistics
